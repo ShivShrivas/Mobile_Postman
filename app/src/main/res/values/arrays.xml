@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+    <resources>
+        <string-array name="http_methods">
+            <item>Select Http Method</item>
+            <item>GET</item>
+            <item>POST</item>
+            <item>PUT</item>
+            <item>DELETE</item>
+        </string-array>
+
+
+    <string-array name="authorization_types">
+        <item>Select Auth Type</item>
+        <item>None</item>
+        <item>Basic</item>
+        <item>OAuth 2.0</item>
+        <item>API Key</item>
+        <item>Bearer Token</item>
+        <item>JWT (JSON Web Token)</item>
+        <item>Digest Access Authentication</item>
+        <item>Custom Token</item>
+    </string-array>
+
+
+    <string-array name="request_type">
+        <item>Select Body Type</item>
+        <item>None</item>
+        <item>Form-data</item>
+        <item>X-www-form-urlencoded</item>
+        <item>Raw-Json</item>
+        <item>Raw-Text</item>
+        <item>Raw-XML</item>
+        <item>Raw-HTML</item>
+    </string-array>
+    </resources>
